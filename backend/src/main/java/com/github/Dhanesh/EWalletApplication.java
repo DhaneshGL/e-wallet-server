@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.core.env.Environment;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-
+// main
 @Slf4j(topic = "EWalletApplication")
 @SpringBootApplication
 public class EWalletApplication {
